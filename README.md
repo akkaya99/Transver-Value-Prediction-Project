@@ -1,4 +1,4 @@
-# Transver-Value-Prediction-Project
+# Transfer-Value-Prediction-Project
 In this project, it is aimed to determine which of the various machine learning algorithms works with higher accuracy by using the football player transfers between the years 2000-2018. The dataset is taken from Kaggle. The following steps were applied in the project, respectively.
 
 1.) The libraries to be used in the project have been imported.
